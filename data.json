@@ -1,0 +1,23 @@
+{
+    "citys":[
+        {
+            "id":1,
+            "city": "agadir",
+            "origin": "morocco",
+            "createAt": "2004-12-13"
+        },
+        {
+            "id":2,
+            "city": "Marrakesh",
+            "origin": "morocco",
+            "createAt": "2020-4-31"
+        },
+       
+        {
+            "id":3,
+            "city": "Safi",
+            "origin": "morocco",
+            "createAt": "2019-4-2"
+        }
+    ]
+}
